@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/scan-doc.git/static/css/main.3ca203bd.css",
-    "main.js": "/scan-doc.git/static/js/main.c4e7e703.js",
-    "static/js/787.2c3e1a97.chunk.js": "/scan-doc.git/static/js/787.2c3e1a97.chunk.js",
-    "index.html": "/scan-doc.git/index.html",
-    "main.3ca203bd.css.map": "/scan-doc.git/static/css/main.3ca203bd.css.map",
-    "main.c4e7e703.js.map": "/scan-doc.git/static/js/main.c4e7e703.js.map",
-    "787.2c3e1a97.chunk.js.map": "/scan-doc.git/static/js/787.2c3e1a97.chunk.js.map"
+    "main.css": "/scan-doc/static/css/main.3ca203bd.css",
+    "main.js": "/scan-doc/static/js/main.433fd1b2.js",
+    "static/js/787.2c3e1a97.chunk.js": "/scan-doc/static/js/787.2c3e1a97.chunk.js",
+    "index.html": "/scan-doc/index.html",
+    "main.3ca203bd.css.map": "/scan-doc/static/css/main.3ca203bd.css.map",
+    "main.433fd1b2.js.map": "/scan-doc/static/js/main.433fd1b2.js.map",
+    "787.2c3e1a97.chunk.js.map": "/scan-doc/static/js/787.2c3e1a97.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3ca203bd.css",
-    "static/js/main.c4e7e703.js"
+    "static/js/main.433fd1b2.js"
   ]
 }
