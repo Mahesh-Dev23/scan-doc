@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Mahesh-Dev23/scan-doc.git%20/static/css/main.3ca203bd.css",
-    "main.js": "/Mahesh-Dev23/scan-doc.git%20/static/js/main.e3de43ba.js",
-    "static/js/787.2c3e1a97.chunk.js": "/Mahesh-Dev23/scan-doc.git%20/static/js/787.2c3e1a97.chunk.js",
-    "index.html": "/Mahesh-Dev23/scan-doc.git%20/index.html",
-    "main.3ca203bd.css.map": "/Mahesh-Dev23/scan-doc.git%20/static/css/main.3ca203bd.css.map",
-    "main.e3de43ba.js.map": "/Mahesh-Dev23/scan-doc.git%20/static/js/main.e3de43ba.js.map",
-    "787.2c3e1a97.chunk.js.map": "/Mahesh-Dev23/scan-doc.git%20/static/js/787.2c3e1a97.chunk.js.map"
+    "main.css": "/Mahesh-Dev23/scan-doc.git/static/css/main.3ca203bd.css",
+    "main.js": "/Mahesh-Dev23/scan-doc.git/static/js/main.d0901d28.js",
+    "static/js/787.2c3e1a97.chunk.js": "/Mahesh-Dev23/scan-doc.git/static/js/787.2c3e1a97.chunk.js",
+    "index.html": "/Mahesh-Dev23/scan-doc.git/index.html",
+    "main.3ca203bd.css.map": "/Mahesh-Dev23/scan-doc.git/static/css/main.3ca203bd.css.map",
+    "main.d0901d28.js.map": "/Mahesh-Dev23/scan-doc.git/static/js/main.d0901d28.js.map",
+    "787.2c3e1a97.chunk.js.map": "/Mahesh-Dev23/scan-doc.git/static/js/787.2c3e1a97.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3ca203bd.css",
-    "static/js/main.e3de43ba.js"
+    "static/js/main.d0901d28.js"
   ]
 }
